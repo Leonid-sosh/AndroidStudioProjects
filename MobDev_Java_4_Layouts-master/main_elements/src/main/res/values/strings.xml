@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloAndroid</string>
+    <string name="greetings">Hello from XML</string>
+    <string name="java_string">Set in Java!</string>
+    <string name="button">Update The TextView</string>
+    <string name="text_after_button">Button pressed!</string>
+    <string name="hint">A name</string>
+</resources>
