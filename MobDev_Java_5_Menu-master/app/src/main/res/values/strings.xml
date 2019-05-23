@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MenuDemoJava</string>
+    <string name="extramenu">расширенное меню</string>
+</resources>
